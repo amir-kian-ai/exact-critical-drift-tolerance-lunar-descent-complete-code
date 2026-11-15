@@ -1,0 +1,9 @@
+[project]
+name = "siv-gnc-finite-study"
+version = "0.1.0"
+requires-python = ">=3.11"
+dependencies = ["numpy", "matplotlib", "pypdf"]
+
+[tool.pytest.ini_options]
+pythonpath = ["."]
+testpaths = ["tests"]

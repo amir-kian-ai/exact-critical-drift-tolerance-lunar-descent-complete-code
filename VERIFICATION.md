@@ -1,0 +1,1 @@
+Current record: FINAL_SUBMISSION_READINESS_REPORT.md.44tests,36references,six main pages plus three reference pages. Historical acceptance records under review/prior_revision do not override this revision.
